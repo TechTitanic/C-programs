@@ -20,5 +20,4 @@ int stands for integer and main() is the function, these () brackets are importa
 return 0 indicates that the program is sucessfully terminated.
 i have done this program in an application name dev c++.
 strings like alphabets or texts should always written in ("") double course.
-
-
+using namespace std contains library functions in small programs in which std stands for standard. 
